@@ -2,7 +2,7 @@
 
 ### Reusable Stateful List Logic with a Custom Hook
 
-[![YouTube Video](#)](#)
+[![YouTube Video](images/video-screenshot.png)](https://youtu.be/E_LEKtRQdOI)
 
 This video short demonstation represents some of the content covered in the following React courses taught by [Accelebrate](https://www.accelebrate.com/):
 
@@ -69,7 +69,7 @@ npm start
 
 When the development web server starts, it should open the React web site in your default web browser. The url will be [http://localhost:3000](http://localhost:3000)
 
-**Step 6.** Start watching the [YouTube Video](#) and code along to learn more about how to use custom hooks to implement reusable, stateful list management logic
+**Step 6.** Start watching the [YouTube Video](https://youtu.be/E_LEKtRQdOI) and code along to learn more about how to use custom hooks to implement reusable, stateful list management logic
 
 
 
